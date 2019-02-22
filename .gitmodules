@@ -1,3 +1,6 @@
 [submodule "Kuuga"]
 	path = Kuuga
 	url = https://github.com/jonathanrainer/Kuuga
+[submodule "Ichijou"]
+	path = Ichijou
+	url = https://github.com/jonathanrainer/Ichijou.git

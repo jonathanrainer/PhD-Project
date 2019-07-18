@@ -4,3 +4,6 @@
 [submodule "Ichijou"]
 	path = Ichijou
 	url = https://github.com/jonathanrainer/Ichijou.git
+[submodule "Thesis"]
+	path = Thesis
+	url = https://github.com/jonathanrainer/Thesis

@@ -7,3 +7,6 @@
 [submodule "Thesis"]
 	path = Thesis
 	url = https://github.com/jonathanrainer/Thesis
+[submodule "Sawatari"]
+	path = Sawatari
+	url = https://github.com/jonathanrainer/Sawatari/
